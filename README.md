@@ -1,25 +1,26 @@
 # TendencIA
 
-> La tendencia inteligente - Tienda de ropa potenciada por Inteligencia Artificial
+> La tendencia inteligente | AI-powered fashion e-commerce
 
-## Descripción
-TendencIA es un proyecto de tienda virtual que integra inteligencia artificial para:
-- Recomendaciones personalizadas de moda
-- Catálogo inteligente de productos
-- Experiencia de compra adaptativa
-
-## Stack Tecnológico
-- **Frontend:** Pendiente
-- **Backend:** Pendiente  
-- **IA:** Ollama + modelos locales
-- **Infraestructura:** ThinkPad T490 (Debian) + ROG Ally X (Servidor)
-
-## Estado
-🚧 En desarrollo activo
-
-## Equipo
-- Estudiante SENA
-- Asistentes: Claude, DeepSeek
+[![Status](https://img.shields.io/badge/status-pre--development-yellow)](https://github.com/johanjaguardev/tendencIA)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---
-*Proyecto académico - SENA 2026*
+
+## 📋 Description
+
+**TendencIA** is a next-generation fashion e-commerce platform that leverages artificial intelligence to deliver personalized shopping experiences. Built on Shopify's Storefront API, it combines the robustness of a proven commerce platform with AI-driven features for product recommendations, intelligent catalog management, and adaptive user experiences.
+
+This project represents the evolution from an academic exercise into a real-world business venture, developed as part of the SENA Technology in Software Analysis and Development program.
+
+### ✨ Key Features (Planned)
+
+- **AI-Powered Recommendations**: Personalized product suggestions based on user preferences and behavior
+- **Intelligent Catalog**: Smart product categorization and search
+- **Adaptive UX**: Dynamic user experience based on interaction patterns
+- **Headless Architecture**: Built on Shopify Storefront API with GraphQL
+- **Document Automation**: 4-artifact document flow for academic and technical documentation
+
+---
+
+## 🏗️ Architecture
